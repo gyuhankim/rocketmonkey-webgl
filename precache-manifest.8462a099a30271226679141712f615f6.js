@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rocketmonkey_webgl/static/css/main.6e7a8e00.chunk.css"
   },
   {
-    "revision": "1ab3b45b2c75cd6a3658a1ba23a53c7c",
+    "revision": "b7b1816f2d5affeb1ca1b0f0b595b5e1",
     "url": "/rocketmonkey_webgl/index.html"
   }
 ];
